@@ -1,2 +1,2 @@
 # Dog-rehoming-analysis
-Statistical analysis of dog rehoming times across breeds (Bichon Frise, Border Collie, Dobermann) using R - includes data cleaning, distribution fitting, confidence intervals, and pairwise comparisons
+A statistical analysis of dog rehoming durations across three specific breeds: Bichon Frise, Border Collie, and Dobermann. This project, implemented in R, covers the full analytical workflow including data cleaning, distribution fitting, confidence interval estimation, and pairwise comparisons.
